@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-use-downloader/static/js/main.e4cfd6fa.chunk.js",
+    "main.js.map": "/react-use-downloader/static/js/main.e4cfd6fa.chunk.js.map",
+    "runtime-main.js": "/react-use-downloader/static/js/runtime-main.c977d208.js",
+    "runtime-main.js.map": "/react-use-downloader/static/js/runtime-main.c977d208.js.map",
+    "static/js/2.c085e971.chunk.js": "/react-use-downloader/static/js/2.c085e971.chunk.js",
+    "static/js/2.c085e971.chunk.js.map": "/react-use-downloader/static/js/2.c085e971.chunk.js.map",
+    "index.html": "/react-use-downloader/index.html",
+    "precache-manifest.6422be983040aa7cecb48ce77e52b49c.js": "/react-use-downloader/precache-manifest.6422be983040aa7cecb48ce77e52b49c.js",
+    "service-worker.js": "/react-use-downloader/service-worker.js",
+    "static/js/2.c085e971.chunk.js.LICENSE.txt": "/react-use-downloader/static/js/2.c085e971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c977d208.js",
+    "static/js/2.c085e971.chunk.js",
+    "static/js/main.e4cfd6fa.chunk.js"
+  ]
+}
